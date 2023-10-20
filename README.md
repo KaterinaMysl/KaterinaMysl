@@ -65,44 +65,6 @@
 <h3>💻 My projects</h3>
 <table>
   <tbody>
-   <tr>
-     <tr>
-      <td colspan="2">
-        <h3 align="center">Seagull</h3>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="3" width="50%">
-        <a href="#" title="Open Demo">
-          <img src="img/Seagull.gif" width="100%"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white&color=%23365C33" />
-          <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&color=%23B0821C" />
-          <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white&color=%23464451" />
-          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white&color=%233F888F" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p align="center"><b>About project</b></p>
-        <p align="center">
-          📰 An e-commerce SPA application for selling tours and more is built on the <a href="https://docs.commercetools.com/api/">Commercetools API</a>. The application was written in a team of 3 people, my role is Team Lead. I organized team work (GitHub Projects), conducted code reviews, and also participated in writing application code. The following pages are available - Home, Catalog, Cart, Profile, About, Basket, Contact, News. Implemented: Registration, Authorization, Maintaining a session, Editing a user profile, Adding a product to the cart, Basic functionality of the Cart, Applying promotional codes, infinite-scroll, modal windows, toasts, error handling when accessing the API. 
-        </p>
-        <div align="right">
-          <a href="https://github.com/KaterinaMysl/eCommerce_Application" title="Go to the repository">More →</a>
-        </div>
-      </td>
-    </tr>
-  </tr>
   <tr>
       <td colspan="2">
         <h3 align="center">CSS-Selectors</h3>
@@ -139,6 +101,44 @@
       </td>
     </tr>
         </tr>
+   <tr>
+     <tr>
+      <td colspan="2">
+        <h3 align="center">Seagull</h3>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="50%">
+        <a href="https://github.com/KaterinaMysl/KaterinaMysl/blob/main/img/Seagull.gif?raw=true" title="Open Demo">
+          <img src="img/Seagull.gif" width="100%"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white&color=%23365C33" />
+          <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white&color=%23B0821C" />
+          <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=Eslint&logoColor=white&color=%23464451" />
+          <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white&color=%233F888F" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>About project</b></p>
+        <p align="center">
+          📰 An e-commerce SPA application for selling tours and more is built on the <a href="https://docs.commercetools.com/api/">Commercetools API</a>. The application was written in a team of 3 people, my role is Team Lead. I organized team work (GitHub Projects), conducted code reviews, and also participated in writing application code. The following pages are available - Home, Catalog, Cart, Profile, About, Basket, Contact, News. Implemented: Registration, Authorization, Maintaining a session, Editing a user profile, Adding a product to the cart, Basic functionality of the Cart, Applying promotional codes, infinite-scroll, modal windows, toasts, error handling when accessing the API. 
+        </p>
+        <div align="right">
+          <a href="https://github.com/KaterinaMysl/eCommerce_Application" title="Go to the repository">More →</a>
+        </div>
+      </td>
+    </tr>
+  </tr>
         <tr>
       <td colspan="2">
         <h3 align="center">Async race</h3>
@@ -208,39 +208,6 @@
     </tr>
         <tr>
       <td colspan="2">
-        <h3 align="center">Shelter</h3>
-      </td>
-    </tr>
-    <tr>
-      <td rowspan="3" width="50%">
-        <a href="https://rolling-scopes-school.github.io/katerinamysl-JSFE2023Q1/shelter/pages/main/index.html" title="Open Demo">
-          <img src="img/Shelter.gif" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://img.shields.io/badge/JavaScript-202124?style=flat-square&logo=javascript&logoColor=white&color=FFAE42" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p align="center"><b>About project</b></p>
-        <p align="center">
-          🐶 The project was completed while studying at <a href="https://rs.school/">RS School</a>. The animal shelter website consists of 2 pages. It has a valid, semantic, adaptive layout (using BEM, PixelPerfect methodology). The functionality of a mobile menu, slider, page with pagination, and popup has been implemented.
-        </p>
-        <div align="right">
-          <a href="https://github.com/KaterinaMysl/shelter" title="Go to the repository">More →</a>
-        </div>
-      </td>
-    </tr>
-        </tr>
-        <tr>
-      <td colspan="2">
         <h3 align="center">Keyboard</h3>
       </td>
     </tr>
@@ -269,6 +236,39 @@
         </p>
         <div align="right">
           <a href="https://github.com/KaterinaMysl/virtual-keyboard" title="Go to the repository">More →</a>
+        </div>
+      </td>
+    </tr>
+        </tr>
+                <tr>
+      <td colspan="2">
+        <h3 align="center">Shelter</h3>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="50%">
+        <a href="https://rolling-scopes-school.github.io/katerinamysl-JSFE2023Q1/shelter/pages/main/index.html" title="Open Demo">
+          <img src="img/Shelter.gif" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/JavaScript-202124?style=flat-square&logo=javascript&logoColor=white&color=FFAE42" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>About project</b></p>
+        <p align="center">
+          🐶 The project was completed while studying at <a href="https://rs.school/">RS School</a>. The animal shelter website consists of 2 pages. It has a valid, semantic, adaptive layout (using BEM, PixelPerfect methodology). The functionality of a mobile menu, slider, page with pagination, and popup has been implemented.
+        </p>
+        <div align="right">
+          <a href="https://github.com/KaterinaMysl/shelter" title="Go to the repository">More →</a>
         </div>
       </td>
     </tr>
