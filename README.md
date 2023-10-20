@@ -63,13 +63,12 @@
 <a href="https://reactjs.org/" target="_blank"> <img alt="react" title="React" src="img/react-original-wordmark.svg" height="40"/> </a>&nbsp;
 </div>
 
+git<h2>💻 My projects</h2>
 <table>
   <tbody>
-
    <tr>
      <tr>
       <td colspan="2">
-              <h2>💻 My projects</h2>
         <h3 align="center">Seagull</h3>
       </td>
     </tr>
