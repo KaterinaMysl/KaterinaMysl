@@ -40,7 +40,7 @@
 
 <br>
 
-<h2>🛠️ The tech stack I've worked with in my job</h2>
+<h3>🛠️ The tech stack I've worked with in my job</h3>
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> <img alt="html" title="HTML5" src="img/html5-original-wordmark.svg" height="40"/> </a>&nbsp; 
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img alt="css" title="CSS" src="img/css3-original-wordmark.svg" height="40"/> </a>&nbsp; 
@@ -58,11 +58,11 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img alt="photoshop" title="Photoshop" src="img/photoshop-line.svg" height="40"/> </a>&nbsp; 
 <a href="https://revealjs.com/" target="_blank"> <img alt="reveal" title="Reveal" src="img/reveal-symbol.svg" height="40"/> </a>&nbsp; 
 </div>
-<h2>🧑‍🎓 Technologies that I’m currently learning</h2>
+<h3>🧑‍🎓 Technologies that I’m currently learning</h3>
 <div align="center">
 <a href="https://reactjs.org/" target="_blank"> <img alt="react" title="React" src="img/react-original-wordmark.svg" height="40"/> </a>&nbsp;
 </div>
-<h2>💻 My projects</h2>
+<h3>💻 My projects</h3>
 <table>
   <tbody>
    <tr>
