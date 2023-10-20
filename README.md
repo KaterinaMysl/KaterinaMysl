@@ -181,7 +181,7 @@
     <tr>
       <td rowspan="3" width="50%">
         <a href="https://rolling-scopes-school.github.io/katerinamysl-JSFE2023Q1/minesweeper/" title="Open Demo">
-          <img src="img/mineweeper.gif" width="100%"/>
+          <img src="img/Minesweeper.gif" width="100%"/>
         </a>
       </td>
     </tr>
@@ -247,7 +247,7 @@
     <tr>
       <td rowspan="3" width="50%">
         <a href="https://katerinamysl.github.io/virtual-keyboard/" title="Open Demo">
-          <img src="img/keyboard.gif" width="100%" />
+          <img src="img/Keyboard.gif" width="100%" />
         </a>
       </td>
     </tr>
