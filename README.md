@@ -62,8 +62,7 @@
 <div align="center">
 <a href="https://reactjs.org/" target="_blank"> <img alt="react" title="React" src="img/react-original-wordmark.svg" height="40"/> </a>&nbsp;
 </div>
-
-git<h2>💻 My projects</h2>
+<h2>💻 My projects</h2>
 <table>
   <tbody>
    <tr>
@@ -73,7 +72,7 @@ git<h2>💻 My projects</h2>
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="40%">
+      <td rowspan="3" width="60%">
         <a href="#" title="Open Demo">
           <img src="img/Seagull.gif" width="100%"/>
         </a>
@@ -110,7 +109,7 @@ git<h2>💻 My projects</h2>
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="40%">
+      <td rowspan="3" width="60%">
         <a href="https://rolling-scopes-school.github.io/katerinamysl-JSFE2023Q1/RSS-CSS-Selectors/" title="Open Demo">
           <img src="img/Selectors.gif" width="100%"/>
         </a>
@@ -146,7 +145,7 @@ git<h2>💻 My projects</h2>
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="40%">
+      <td rowspan="3" width="60%">
         <a href="https://katerinamysl.github.io/Race/" title="Open Demo">
           <img src="img/Race.gif" width="100%" />
         </a>
@@ -180,7 +179,7 @@ git<h2>💻 My projects</h2>
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="40%">
+      <td rowspan="3" width="60%">
         <a href="https://rolling-scopes-school.github.io/katerinamysl-JSFE2023Q1/minesweeper/" title="Open Demo">
           <img src="img/mineweeper.gif" width="100%"/>
         </a>
@@ -213,7 +212,7 @@ git<h2>💻 My projects</h2>
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="40%">
+      <td rowspan="3" width="60%">
         <a href="https://rolling-scopes-school.github.io/katerinamysl-JSFE2023Q1/shelter/pages/main/index.html" title="Open Demo">
           <img src="img/Shelter.gif" width="100%" />
         </a>
@@ -246,7 +245,7 @@ git<h2>💻 My projects</h2>
       </td>
     </tr>
     <tr>
-      <td rowspan="3" width="40%">
+      <td rowspan="3" width="60%">
         <a href="https://katerinamysl.github.io/virtual-keyboard/" title="Open Demo">
           <img src="img/keyboard.gif" width="100%" />
         </a>
