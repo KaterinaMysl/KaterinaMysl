@@ -20,6 +20,9 @@
 <br>
 
 <div align="left">
+    <a href="https://katerinamysl.github.io/rsschool-cv/" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/CV_Katerina_Myslivchik-Kate?style=for-the-badge&logo=CV&labelColor=white&color=%23752326" />
+  </a>
   <a href="https://t.me/Katerina_382" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
